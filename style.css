@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: rgb(248, 139, 7); 
+    font-size: 15mm; 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.side-title{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 63px;
+    padding-left:  90px;;
+    padding-top: 145px;
+}
+.g3-g4-text{
+    text-align: start;    
+    color: rgb(255, 255, 255);
+    font-size: 33px;
+    padding-left: 165px;   
+}
+.g3-g4-image{
+    width:50%;
+    height:750px;
+    float:right;
+}
+p {
+    text-align: center;
+}
+.rectangle-Side {
+    background-color: rgb(237, 180, 124);
+	width:50%;
+    height: 780px;;
+    float:left;
+}
